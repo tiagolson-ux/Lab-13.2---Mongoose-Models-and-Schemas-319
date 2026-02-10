@@ -1,0 +1,29 @@
+{
+  "name": "lab-13.2---mongoose-models-and-schemas-319",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagolson-ux/Lab-13.2---Mongoose-Models-and-Schemas-319.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagolson-ux/Lab-13.2---Mongoose-Models-and-Schemas-319/issues"
+  },
+  "homepage": "https://github.com/tiagolson-ux/Lab-13.2---Mongoose-Models-and-Schemas-319#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
